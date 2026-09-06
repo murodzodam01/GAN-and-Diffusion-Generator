@@ -157,6 +157,3 @@ When running locally, download `magic04.data` from UCI and update the `pd.read_c
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
-## License
-
-Add the license that best matches your intended use before publishing the repository. The dataset is distributed separately by its original provider.
